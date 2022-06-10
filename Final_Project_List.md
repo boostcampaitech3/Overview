@@ -20,12 +20,12 @@
 11|[CV-11](https://github.com/boostcampaitech3/final-project-level3-cv-11)|실시간 불특정인 모자이크
 12|[CV-12](https://github.com/boostcampaitech3/final-project-level3-cv-12)|매대 결품 감지
 13|[CV-13](https://github.com/boostcampaitech3/final-project-level3-cv-13)|가상 마우스
-14|[CV-14](https://github.com/boostcampaitech3/final-project-level3-cv-14)|모델 경량화
+14|[CV-14, 6/15 공개 예정](https://github.com/boostcampaitech3/final-project-level3-cv-14)|모델 경량화
 15|[CV-15](https://github.com/boostcampaitech3/final-project-level3-cv-15)|XAI 피부 평가
 16|[CV-16](https://github.com/boostcampaitech3/final-project-level3-cv-16)|알약 분류
 17|[CV-17](https://github.com/boostcampaitech3/final-project-level3-cv-17)|미세먼지 없는 맑은 사진
 18|[CV-18](https://github.com/boostcampaitech3/final-project-level3-cv-18)|XAI 피부 평가
-19|[CV-19](https://github.com/boostcampaitech3/final-project-level3-cv-19)|모델 경량화
+19|[CV-19, 6/15 공개 예정](https://github.com/boostcampaitech3/final-project-level3-cv-19)|모델 경량화
 
 
 ### NLP(Natural Language Processing)
