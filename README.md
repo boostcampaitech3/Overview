@@ -55,7 +55,7 @@
 DKT(Deep Knowledge Tracing)|level2-dkt|학생별 문제 풀이 데이터를 이용하여 아직 풀지 않은 미래의 문제에 대해 맞았는지 틀렸는지 분류하는 모델을 구현합니다. |AUROC
 
 ### [팀별 레포 목록]
-* 네트워킹데이 발표팀 : https://github.com/boostcampaitech3/Overview/blob/main/NetworkingDay_TimeTable.md
+* 최종프로젝트 리스트 : https://github.com/boostcampaitech3/Overview/blob/main/Final_Project_List.md
 * 컴퓨터 비전(CV) : https://github.com/boostcampaitech3/Overview/blob/main/repoList_teamDetail_CV.md
 * 자연어 처리(NLP) : https://github.com/boostcampaitech3/Overview/blob/main/repoList_teamDetail_NLP.md
 
