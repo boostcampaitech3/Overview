@@ -1,4 +1,4 @@
-# Computer Vision (컴퓨터비전)
+# Computer Vision
 
 Level 2 이후의 프로젝트를 아래에서 확인하실 수 있습니다.
 
