@@ -56,8 +56,9 @@ DKT(Deep Knowledge Tracing)|level2-dkt|학생별 문제 풀이 데이터를 이�
 
 ### [팀별 레포 목록]
 * 최종프로젝트 리스트 : https://github.com/boostcampaitech3/Overview/blob/main/Final_Project_List.md
-* 컴퓨터 비전(CV) : https://github.com/boostcampaitech3/Overview/blob/main/repoList_teamDetail_CV.md
-* 자연어 처리(NLP) : https://github.com/boostcampaitech3/Overview/blob/main/repoList_teamDetail_NLP.md
+* 컴퓨터 비전(CV) : https://github.com/boostcampaitech3/Overview/blob/main/CV_List.md
+* 자연어 처리(NLP) : https://github.com/boostcampaitech3/Overview/blob/main/NLP_List.md
+* 추천 시스템(https://github.com/boostcampaitech3/Overview/blob/main/Recsys_List.md
 
 ### [기타]
 * 부스트캠프 홈페이지 : https://boostcamp.connect.or.kr/
