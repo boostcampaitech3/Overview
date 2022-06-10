@@ -15,7 +15,7 @@
 5|[CV-05](https://github.com/boostcampaitech3/final-project-level3-cv-05)|\[기업 연계\] Post OCR Parsing-명함
 6|[CV-06](https://github.com/boostcampaitech3/final-project-level3-cv-06)|\[기업 연계\] 피부 트러블 객체 검출
 7|[CV-07](https://github.com/boostcampaitech3/final-project-level3-cv-07)|\[기업 연계\] XAI 피부 평가
-8|[CV-08](https://github.com/boostcampaitech3/final-project-level3-cv-08)|차량 거리 측정 및 객체 트랙킹
+8|[CV-08](https://github.com/boostcampaitech3/final-project-level3-cv-08)|Autonomous Driving Safety Assistant
 9|[CV-09](https://github.com/boostcampaitech3/final-project-level3-cv-09)|심약자를 위한 동영상 폭력 감지 및 필터링 서비스
 10|[CV-10](https://github.com/boostcampaitech3/final-project-level3-cv-10)|인물기반 예능 숏폼영상 생성기
 11|[CV-11](https://github.com/boostcampaitech3/final-project-level3-cv-11)|실시간 불특정인 모자이크
